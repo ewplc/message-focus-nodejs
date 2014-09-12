@@ -1,0 +1,23 @@
+{
+  "name": "message-focus",
+  "version": "0.1.0",
+  "description": "A wrapper for the Adestra MessageFocus API",
+  "contributors": [
+    {
+      "name": "Andrew Gilmore",
+      "email": "andrew.gilmore@electricwordplc.com"
+    }
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewplc/message-focus-nodejs"
+  },
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "xmlrpc": "^1.2.0"
+  }
+}

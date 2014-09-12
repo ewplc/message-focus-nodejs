@@ -1,0 +1,7 @@
+[attr]standardtext    text eol=lf whitespace=blank-at-eol,-blank-at-eof,-space-before-tab,tab-in-indent,tabwidth=2
+
+*       text=auto eol=lf
+
+*.js    standardtext
+*.json  standardtext
+*.md    standardtext
